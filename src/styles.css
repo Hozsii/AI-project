@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(230, 237, 235);
+  background-color: rgb(243, 239, 227);
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -17,7 +17,7 @@ header {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
   font-weight: 800;
   font-size: 36px;
   line-height: 1.5;
@@ -56,7 +56,7 @@ form {
 .submit-button {
   margin-left: 10px;
   background: rgb(146, 73, 81);
-  color: white;
+  color: rgb(234, 225, 211);
   border: none;
   width: 150px;
   font-size: 16px;
@@ -82,7 +82,7 @@ form {
 
 footer {
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   margin-top: 30px;
 }
 
